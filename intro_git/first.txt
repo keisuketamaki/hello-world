@@ -1,0 +1,4 @@
+gitの練習をします
+tests
+aaaaaaaaaa
+bbbbbbbbbbb
